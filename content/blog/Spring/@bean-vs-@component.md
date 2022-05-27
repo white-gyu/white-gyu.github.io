@@ -1,5 +1,5 @@
 ---
-title: "@Bean vs @Component"
+title: Bean vs Component
 date: 2022-02-23 16:05:65
 category: Spring
 thumbnail: { thumbnailSrc }
