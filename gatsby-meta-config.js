@@ -12,7 +12,7 @@ module.exports = {
     linkedin: ``, // Your LinkedIn account
     instagram: ``, // Your Instagram account
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  icon: `content/assets/blog-favicon.png`, // Add your favicon
   keywords: [`blog`],
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
