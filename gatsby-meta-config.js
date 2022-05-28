@@ -1,6 +1,6 @@
 module.exports = {
   title: `white-gyu Logs`,
-  description: `Blog posted about ...`,
+  description: `뱅구 개발 블로그`,
   author: `white-gyu`,
   introduction: `자라기를 잘하는 개발자 interested in Communication, Clean Code, Spring`,
   siteUrl: `https://white-gyu.github.io`, // Your blog site url
